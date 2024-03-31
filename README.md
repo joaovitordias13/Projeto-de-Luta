@@ -11,7 +11,7 @@
 <br>
 
 # 💻  Sobre o Projeto:
-<li>O Projeto Luta é uma página web que permite aos usuários realizarem uma luta entre um personagem contra o outro,com o uso de orientação a objetos.</li>
+<li>O Projeto Luta é uma página web que permite aos usuários realizarem uma luta entre um personagem contra o outro, com o uso de orientação a objetos.</li>
 </br>
 
 # ⚙️ Funcionalidades:
